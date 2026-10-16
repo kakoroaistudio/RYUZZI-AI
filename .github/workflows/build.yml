@@ -33,3 +33,4 @@ jobs:
         with:
           name: RyuzziAI-debug-apk
           path: RyuzziAI/app/build/outputs/apk/debug/app-debug.apk
+          
